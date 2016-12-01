@@ -1,4 +1,7 @@
 # Overview
+
+[![DOI](https://zenodo.org/badge/75277814.svg)](https://zenodo.org/badge/latestdoi/75277814)
+
 This MATLAB code runs the simulations used in figures 3 and S1 of the
 paper *"Cracking the Neural Code for Sensory Perception by Combining
 Statistics, Intervention and Behavior"*, by S. Panzeri, C. D. Harvey,
